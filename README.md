@@ -7,3 +7,5 @@
 **These tasks are for myself.**
 
 My telegram: [@iskatelonelove](https://t.me/iskatelonelove)
+
+P.S. Now there is a code of a zoo in the repository.
